@@ -2053,12 +2053,12 @@ input, select, textarea {
 			border-radius: 0.35em;
 			content: '';
 			display: block;
-			height: 50%;
+			height: 100%;
 			left: 0;
 			opacity: 0.5;
 			position: absolute;
 			top: 0;
-			width: 50%;
+			width: 100%;
 		}
 
 		.image.thumb {
@@ -2554,21 +2554,21 @@ input, select, textarea {
 /* Work Item */
 
 	.work-item {
-		margin: 0 0 2em 0;
+		margin: 0 0 1em 0;
 	}
 
 		.work-item .image {
-			margin: 0 0 1.5em 0;
+			margin: 0 0 .75em 0;
 		}
 
 		.work-item h3 {
-			font-size: 1em;
-			margin: 0 0 0.5em 0;
+			font-size: .5em;
+			margin: 0 0 0.25em 0;
 		}
 
 		.work-item p {
-			font-size: 0.8em;
-			line-height: 1.5em;
+			font-size: 0.4em;
+			line-height: .75em;
 			margin: 0;
 		}
 
